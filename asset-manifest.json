@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/p8openclassrooms/static/css/main.80f4941e.css",
+    "main.js": "/p8openclassrooms/static/js/main.0ae463bc.js",
+    "static/media/about_image.png": "/p8openclassrooms/static/media/about_image.9438035cca5a38fcb06a.png",
+    "static/media/home_Image.png": "/p8openclassrooms/static/media/home_Image.84132b0f93bbeaa2fe46.png",
+    "index.html": "/p8openclassrooms/index.html",
+    "main.80f4941e.css.map": "/p8openclassrooms/static/css/main.80f4941e.css.map",
+    "main.0ae463bc.js.map": "/p8openclassrooms/static/js/main.0ae463bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f4941e.css",
+    "static/js/main.0ae463bc.js"
+  ]
+}
